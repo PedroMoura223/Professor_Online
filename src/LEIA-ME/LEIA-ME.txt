@@ -1,0 +1,104 @@
+﻿
+Atualização 11/02/2020
+
+Nome do banco de dados: profonline
+
+---------------------------------------------------------------------
+Tabela professores
+
+id *
+Nome *
+Email *
+Telefone
+Escola Pertencente *
+Disciplina *
+Senha *
+Confirmar Senha *
+
+---------------------------------------------------------------------
+
+Atualização 13/02/2020
+
+João Victor fez a interface da tela de cadastro de professor.
+
+Pedro programaou o botão de cadastrar na tela de cadastro do professor e Samuel
+programou o botão atualizar na tela de cadastro do professor. 
+
+Samuel programou a tela Login. 
+
+---------------------------------------------------------------------
+
+Atualização 16/02/2020
+
+Denis Braga fez a interface do Administrador, 3 JInternalFrame para 
+as telas de Gerenciar Boletim, Professores e alunos
+
+---------------------------------------------------------------------
+
+Atualização 16/02/2020
+
+João Victor fez a tela de SplashScreen com barra de carregamento. 
+
+---------------------------------------------------------------------
+
+Atualização 18/02/2020
+
+Houve alguns bug na tela SplashScreen, Pedro consertou.
+
+Samuel fez a tela de cadastro de dados dos alunos em JInternalFrame
+e modificou o banco de dados
+
+---------------------------------------------------------------------
+
+
+Atualização 24/02/2020
+
+Pedro adicionou a funcionalidade de mostrar os dados do aluno na tela:
+TelaProfessor
+
+---------------------------------------------------------------------
+
+Atualização 26/02/2020
+
+Samuel modificou a tela de gerenciamento de professores adicionando
+os botões Pesquisar, Deletar e Mostrar Tudo programando também 
+suas funções. E também consertou alguns bugs que a tela de cadastro 
+de alunos apresentava.
+
+Samuel modificou a interface da TelaProfessor colocando e programando
+dados dos alunos.
+
+Samuel modificou a TelaProfessor adicionando o campo Cadastro de Boletim
+
+---------------------------------------------------------------------
+
+Atualização 27/02/2020
+
+Samuel programou o sistema para cálculo automático do boletim
+na TelaProfessor, programou a tabela na tela GerBoletim em 
+JInternalFrame e modificou o banco de dados.
+
+---------------------------------------------------------------------
+
+Atualização 06/03/2020
+
+Denis braga programou a entrada de Gabarito da Prova Bimestral na 
+TelaProfessores e consertou um bug presente. Samuel Edson programou
+os botões Pesquisar e Mostrar Tudo da tela GerProf (JInternalFrame) e 
+testando projeto.
+
+---------------------------------------------------------------------
+
+Atualização 21/03/2020
+
+Samuel Edson fez o design da tela de ADM e programou data e hora.
+
+---------------------------------------------------------------------
+
+Atualização 23/03/2020
+
+Samuel consertou bug da tela de formulário de professores,
+fez o sistema de validação de email e fez o código de limpar
+os campos ao criar uma nova conta ou editar.
+
+---------------------------------------------------------------------
